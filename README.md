@@ -1,3 +1,3 @@
 # ansible-config-mgt
 
-# Test project ansible in jenkins build
+# Test project ansible setup in Jenkins build
