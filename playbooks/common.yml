@@ -41,5 +41,6 @@
         state: touch
 
     - name: set timezone
-      timezone:
-        name: USA/CA          
+      become: yes
+      ansible.builtin.timezone:
+        name: America/Los_Angeles       
